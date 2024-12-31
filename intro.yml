@@ -1,0 +1,10 @@
+CourseName: DevOps with AWS
+Timing: 6AM
+StartDate: 01-01-2025
+students:
+  - name: Raghu
+    email: raghu@gmail.com
+    mobile: 3124567890
+  - name: Shiva
+    email: shiva@gmail.com
+    mobile: 9133502805
